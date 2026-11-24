@@ -77,7 +77,7 @@ def write_doc(name: str, title: str, body_html: str):
   .muted {{ color: #555; font-size: 10pt; }}
 </style></head><body>
 <h1>{md_escape(title)}</h1>
-<p class="muted">Eco-Loop / TwinPilot · HirePro Honeywell · https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final</p>
+<p class="muted">Eco-Loop / TwinPilot · HirePro Honeywell · https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final</p>
 {body_html}
 </body></html>"""
     (html_dir / name).write_text(doc, encoding="utf-8")
@@ -136,7 +136,7 @@ write_doc(
     "Fully Functional Source Code — Overview for Judges",
     f"""
 <h2>GitHub (full source)</h2>
-<p><code>https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final</code></p>
+<p><code>https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final</code></p>
 <table>
 <tr><th>Deliverable piece</th><th>Path</th></tr>
 <tr><td>EnergyPlus wrapper / closed loop</td><td><code>services/simulator/twinpilot_simulator/ep_experiment.py</code></td></tr>
@@ -158,9 +158,9 @@ write_doc(
 <h2>Watch on GitHub / README</h2>
 <p>The MP4 is hosted in the repository (not duplicated as a non-PDF upload):</p>
 <p><b>Direct video:</b><br/>
-<code>https://github.com/alphasafal/Twincity-/blob/ecolooop-hackathon-final/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4</code></p>
+<code>https://github.com/alphasafal/twinpilot/blob/ecolooop-hackathon-final/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4</code></p>
 <p><b>README (embedded preview / link):</b><br/>
-<code>https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final#poc-demo-video</code></p>
+<code>https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final#poc-demo-video</code></p>
 <p>Duration: ~180 seconds. Narrative: EnergyPlus → MCP → LLM/controller → SafetyShield → actuator → next state.</p>
 <p class="muted">Live interactive demo: https://twinpilot.webyaar.in</p>
 """,
@@ -194,7 +194,7 @@ write_doc(
 </table>
 <h2>GitHub + live demo</h2>
 <ul>
-<li>GitHub: https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final</li>
+<li>GitHub: https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final</li>
 <li>Live demo: https://twinpilot.webyaar.in — manager@twinpilot.demo / TwinPilot-Manager-Demo!</li>
 <li>Demo video section in README: anchor <code>#poc-demo-video</code></li>
 </ul>

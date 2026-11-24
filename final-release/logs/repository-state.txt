@@ -41,8 +41,8 @@ f2c1202 Add settings write APIs, rate limits, replay script, and Ollama setup
 6d95258 Document Playwright e2e login smoke test
 
 === remotes ===
-origin	https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJJNFUzTk9OLVpWMEZXNWF5eWc1cG1ocGw1WWx0eTNRcjZTdTdsNldCZmFHSk9HZXlUcDl3cVgxQ2Vsay1YNU0iLCJleHAiOjE3ODQ5ODMzNjcsImlhdCI6MTc4NDk3OTc2NywiaXNzIjoiZ2l0aHViIiwianRpIjoiZDU1NDVkNTctNWI1My00MTllLTk2Y2QtNTkyYjRmZmEyYzg1IiwidmVyIjozfQ.ceVwEEPujWVtPD7HCJZnn9I2xwCGr17Zd0kVUNaVnC6yM1WzHq7IXQ-cVJ8WIW07w2Jz07Huj2I3012zrQSI5A@github.com/alphasafal/Twincity- (fetch)
-origin	https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJJNFUzTk9OLVpWMEZXNWF5eWc1cG1ocGw1WWx0eTNRcjZTdTdsNldCZmFHSk9HZXlUcDl3cVgxQ2Vsay1YNU0iLCJleHAiOjE3ODQ5ODMzNjcsImlhdCI6MTc4NDk3OTc2NywiaXNzIjoiZ2l0aHViIiwianRpIjoiZDU1NDVkNTctNWI1My00MTllLTk2Y2QtNTkyYjRmZmEyYzg1IiwidmVyIjozfQ.ceVwEEPujWVtPD7HCJZnn9I2xwCGr17Zd0kVUNaVnC6yM1WzHq7IXQ-cVJ8WIW07w2Jz07Huj2I3012zrQSI5A@github.com/alphasafal/Twincity- (push)
+origin	https://x-access-token:REDACTED@github.com/alphasafal/twinpilot (fetch)
+origin	https://x-access-token:REDACTED@github.com/alphasafal/twinpilot (push)
 
 === tracked results/submission-evidence ===
 results/.gitkeep

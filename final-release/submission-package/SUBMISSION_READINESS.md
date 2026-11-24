@@ -1,13 +1,13 @@
 # Submission readiness
 
-**Branch:** `ecolooop-hackathon-final` · **PR:** https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final  
+**Branch:** `ecolooop-hackathon-final` · **PR:** https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final  
 **Date:** 2026-07-26
 
 All problem-statement deliverables are complete — see [`ACCEPTANCE_MATRIX.md`](ACCEPTANCE_MATRIX.md).
 
 ## HirePro paste
 
-- **GITHUB link:** `https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final`
+- **GITHUB link:** `https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final`
 - **Upload:** `Eco-Loop-Hackathon-Submission.zip`
 
 ## Still owner-only

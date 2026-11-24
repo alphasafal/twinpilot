@@ -50,7 +50,7 @@ else
   cat > "$OUT_DIR/GitHub-and-Live-Links.md" <<'EOF'
 # GitHub and live links
 
-- GitHub: https://github.com/alphasafal/Twincity-
+- GitHub: https://github.com/alphasafal/twinpilot
 - Live demo: https://twinpilot.webyaar.in
 - Authoritative metrics: Path A comfort-zero EnergyPlus experiment
 - Hybrid Path C proves LLM supervisory involvement in the closed loop
@@ -211,7 +211,7 @@ cat > "$OUT_DIR/source/SOURCE_README.md" <<'EOF'
 This ZIP includes the closed-loop Python core. The full monorepo (web dashboard,
 API, weather EPW, full MCP traces) is on GitHub:
 
-https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final
+https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final
 
 | Piece | Path in this ZIP |
 |-------|------------------|

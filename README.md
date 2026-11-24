@@ -9,7 +9,7 @@
 | | |
 |-|-|
 | **Live demo website** | https://twinpilot.webyaar.in |
-| **GitHub (HirePro paste)** | https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final |
+| **GitHub (HirePro paste)** | https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final |
 | **Submission PDFs (upload)** | [`Eco-Loop-Hackathon-PDFs.zip`](Eco-Loop-Hackathon-PDFs.zip) — PDF-only pack |
 | **Submission ZIP (optional)** | [`Eco-Loop-Hackathon-Submission.zip`](Eco-Loop-Hackathon-Submission.zip) |
 | **IDEA PPT (6 slides)** | [`final-release/presentation/Eco-Loop_Building_Agents.pdf`](final-release/presentation/Eco-Loop_Building_Agents.pdf) |
@@ -25,10 +25,10 @@ Closed-loop walkthrough (≤3 min): EnergyPlus → MCP → controller/LLM → Sa
 
 <a id="poc-demo-video"></a>
 
-[![Eco-Loop demo walkthrough — click to play](final-release/demo-video/dashboard-live.png)](https://github.com/alphasafal/Twincity-/blob/ecolooop-hackathon-final/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4)
+[![Eco-Loop demo walkthrough — click to play](final-release/demo-video/dashboard-live.png)](https://github.com/alphasafal/twinpilot/blob/ecolooop-hackathon-final/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4)
 
 **Play video (MP4 on GitHub):**  
-https://github.com/alphasafal/Twincity-/blob/ecolooop-hackathon-final/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4
+https://github.com/alphasafal/twinpilot/blob/ecolooop-hackathon-final/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4
 
 Local path: [`final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4`](final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4)
 
@@ -37,7 +37,7 @@ Local path: [`final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4`](final-rel
 ## Judge start here (HirePro / Honeywell Eco-Loop)
 
 Paste this repo URL on the portal:  
-`https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final`
+`https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final`
 
 **Portal upload (PDF only):** download [`Eco-Loop-Hackathon-PDFs.zip`](Eco-Loop-Hackathon-PDFs.zip) (~1.1MB), unzip, and upload the PDFs (or upload the ZIP if the portal accepts it).  
 Demo video is **not** inside that pack — watch it in this README / on GitHub (section above).

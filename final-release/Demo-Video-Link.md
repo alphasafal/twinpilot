@@ -2,7 +2,7 @@
 
 **Primary (in submission package):** `Eco-Loop-Demo-Walkthrough.mp4`  
 **Repository path:** `final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4`  
-**GitHub:** https://github.com/alphasafal/Twincity-/blob/main/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4
+**GitHub:** https://github.com/alphasafal/twinpilot/blob/main/final-release/demo-video/Eco-Loop-Demo-Walkthrough.mp4
 
 Duration: **~3:00** (≤180s).
 

@@ -22,7 +22,7 @@
 | Commit subject | Final hackathon hardening: real dashboard DATA_MODE, LLM-MCP, comfort-zero |
 | Commit date | 2026-07-25 10:46:24 +0000 |
 | Tree clean? | **Yes for tracked files**; untracked `manual-verification/` created by this audit |
-| Remotes | `origin` → github.com/alphasafal/Twincity- |
+| Remotes | `origin` → github.com/alphasafal/twinpilot |
 | Dashboard startup | `./scripts/run_demo.sh` (documented) |
 | Experiment startup | `./scripts/run_baseline.sh`, `./scripts/run_agent.sh`, `./scripts/compare_results.sh` |
 

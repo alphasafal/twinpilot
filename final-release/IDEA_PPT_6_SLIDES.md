@@ -3,7 +3,7 @@
 **Rules:** max 6 slides including title · bullets / diagrams only · no long paragraphs · official template only · export **PDF** for HirePro.
 
 **Live demo:** https://twinpilot.webyaar.in  
-**GitHub:** https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final  
+**GitHub:** https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final  
 **Login:** `manager@twinpilot.demo` / `TwinPilot-Manager-Demo!`
 
 Fill `[brackets]` from HirePro before export.
@@ -24,7 +24,7 @@ Fill `[brackets]` from HirePro before export.
 
 **Links**
 - Live PoC: https://twinpilot.webyaar.in
-- Code: https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final
+- Code: https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final
 
 ---
 
@@ -170,7 +170,7 @@ EnergyPlus ──obs──► MCP stdio ──► Ollama strategy
 - Building energy context: buildings ≈ large share of global energy use (IEA / industry reports)
 - Project evidence pack — `final-release/` + `Eco-Loop-Hackathon-Submission.zip`
 - Live PoC — https://twinpilot.webyaar.in
-- Source — https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final
+- Source — https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final
 
 ### Closing points (speak these)
 1. Real EnergyPlus closed loop with actuator write + next state  

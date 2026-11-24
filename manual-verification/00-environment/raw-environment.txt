@@ -49,8 +49,8 @@ ecolooop-hackathon-final
 ## ecolooop-hackathon-final...origin/ecolooop-hackathon-final
 ?? manual-verification/
 === remotes ===
-origin	https://x-access-token:ghs_VO90UkvdSOzDkimMkicyWYy4EybfM30I5wqc@github.com/alphasafal/Twincity- (fetch)
-origin	https://x-access-token:ghs_VO90UkvdSOzDkimMkicyWYy4EybfM30I5wqc@github.com/alphasafal/Twincity- (push)
+origin	https://x-access-token:REDACTED@github.com/alphasafal/twinpilot (fetch)
+origin	https://x-access-token:REDACTED@github.com/alphasafal/twinpilot (push)
 === last commit ===
 61ed36cc9bc89cd37ba7a38a1ec7b4d1e12702e1
 Final hackathon hardening: real dashboard DATA_MODE, LLM-MCP, comfort-zero

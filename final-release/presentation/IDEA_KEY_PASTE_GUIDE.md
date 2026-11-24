@@ -12,4 +12,4 @@ Official template only · max **6 slides including title** · bullets/diagrams �
 6. Upload that PDF on the portal (no PPT / Word)
 
 Live site to put on title slide: https://twinpilot.webyaar.in  
-GitHub: https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final
+GitHub: https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final

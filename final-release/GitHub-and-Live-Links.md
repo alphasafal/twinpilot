@@ -1,8 +1,8 @@
 # GitHub and live links
 
 - **Live demo website:** https://twinpilot.webyaar.in
-- **GitHub (paste on HirePro):** https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final
-- **Pull request:** https://github.com/alphasafal/Twincity-/tree/ecolooop-hackathon-final
+- **GitHub (paste on HirePro):** https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final
+- **Pull request:** https://github.com/alphasafal/twinpilot/tree/ecolooop-hackathon-final
 - **IDEA PPT paste pack (6 slides):** `final-release/IDEA_PPT_6_SLIDES.md`
 - Apex marketing site (unchanged): https://webyaar.in
 
